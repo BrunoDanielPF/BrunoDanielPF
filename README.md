@@ -27,3 +27,11 @@
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
 </div>
+ <h3> Visitantes </h3>  
+
+ <div>
+
+  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=alexsgross&color=green" alt="alexsgross" /> <br>
+
+ </div>  
+
