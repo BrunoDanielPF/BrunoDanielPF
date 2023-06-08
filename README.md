@@ -31,7 +31,7 @@
 </div>
 </div>
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem-five-ashy.vercel.app/api/spotify)](https://open.spotify.com/user/frandalozzo-br)
+  [![Spotify](https://novatorem-five-ashy.vercel.app/api/spotify)](https://open.spotify.com/user/4QVBYiagIaa6ZGSPMbybpy)
 </div>
 
 
