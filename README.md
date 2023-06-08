@@ -30,7 +30,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 </div>
-[![Spotify](https://novatorem-git-main-brunodanielpf.vercel.app/api/spotify)](https://open.spotify.com/user/4QVBYiagIaa6ZGSPMbybpy)
+[![Spotify](https://novatorem-git-main-brunodanielpf.vercel.app/api/spotify)](https://open.spotify.com/user/8d90e01531d04b33)
 
 
 
