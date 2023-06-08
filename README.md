@@ -32,7 +32,7 @@
 </div>
 [![Spotify](https://novatorem-git-main-brunodanielpf.vercel.app/api/spotify)](https://open.spotify.com/user/8d90e01531d04b33)
 
-  <a href="https://open.spotify.com/user/8d90e01531d04b33">
+  <a href="https://open.spotify.com/user/frandalozzo-br">
     <img src="https://spotify-now-playing-gray-omega.vercel.app/api/spotify" alt="Now Playing">
   </a>
 
