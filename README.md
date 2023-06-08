@@ -29,12 +29,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-</div>
-[![Spotify](https://novatorem-git-main-brunodanielpf.vercel.app/api/spotify)](https://open.spotify.com/user/8d90e01531d04b33)
-
   <a href="https://open.spotify.com/user/frandalozzo-br">
-    <img src="https://spotify-now-playing-gray-omega.vercel.app/api/spotify" alt="Now Playing">
+    <img src="https://novatorem-git-main-brunodanielpf.vercel.app/api/spotify" alt="Now Playing">
   </a>
+</div>
+
 
 
 
