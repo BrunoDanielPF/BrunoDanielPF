@@ -36,7 +36,7 @@
 
   
   <a href="https://open.spotify.com/user/frandalozzo-br">
-    <img src="https://novatorem-git-main-brunodanielpf.vercel.app/api/spotify" alt="Now Playing"
+<!--     img src="https://novatorem-git-main-brunodanielpf.vercel.app/api/spotify" alt="Now Playing" -->
   </a>
 </div>
 
