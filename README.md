@@ -31,6 +31,7 @@ personal project technologies:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   
   <a href="https://open.spotify.com/user/frandalozzo-br">
 <!--     <img src="https://novatorem-git-main-brunodanielpf.vercel.app/api/spotify" alt="Now Playing"> -->
