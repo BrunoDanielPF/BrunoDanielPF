@@ -43,7 +43,7 @@
 ![CodingGame](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)
 
 <a href="https://exercism.org/profiles/BrunoDanielPF">
-![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
+  <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism Badge"/>
 </a>  
   <a href="https://open.spotify.com/user/frandalozzo-br">
     <img src="https://novatorem-git-main-brunodanielpf.vercel.app/api/spotify" alt="Now Playing">
